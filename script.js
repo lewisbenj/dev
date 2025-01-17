@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     //Status
-    fetch('https://api.lanyard.rest/v1/users/1027559943462727740')
+    fetch('https://api.lanyard.rest/v1/users/812279245661274132')
         .then(response => response.json())
         .then(data => {
             const status = data.data.discord_status;
