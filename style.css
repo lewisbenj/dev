@@ -76,9 +76,9 @@ body {
     top: 75px;
     font-size: 70px;
 }
-.online { color: #b59a43; } /* Green */
-.idle { color: #faa61a; }   /* Yellow */
-.dnd { color: #14ec4e; }    /* Red */
+.online { color: #09f829; } /* Green */
+.idle { color: #f8e909; }   /* Yellow */
+.dnd { color: #f80927; }    /* Red */
 .offline { color: #747f8d; } /* Gray */
 
 .bio-name {
