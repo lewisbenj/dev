@@ -2,7 +2,7 @@ let counter = 0;
 let counter2 = 0;
 
 //Static
-const birthdayString = "Birthday: December 2, 2007";
+const birthdayString = "Birthday: November 2, 2007";
 const celebrateString = "Thanks everyone for visiting!"
 const contactmethod = "Contact me through Discord: @BenjaminLewis";
 
